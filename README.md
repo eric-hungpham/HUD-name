@@ -1,5 +1,5 @@
 # Thiết kế và thi công HUD cho xe hơi
-Đây là đề tài tốt nghiệp được hoàn thành vào đầu tháng 6 năm 2023, chuyên ngành **Hệ thống thông minh** tại trường Đại học Công nghiệp TP Hồ Chí Minh của mình.
+Đây là đề tài tốt nghiệp được hoàn thành vào đầu tháng 6 năm 2023, ngành **Điện tử viễn thông** tại trường Đại học Công nghiệp TP Hồ Chí Minh của mình.
 
 ## Mục tiêu đề tài:
 Thiết kế một bộ HUD (Head-up Display) hiển thị các thông tin lên kính lái của xe ô tô, thỏa mãn yêu cầu sau:
